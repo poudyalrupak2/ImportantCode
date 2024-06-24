@@ -1,0 +1,55 @@
+# Visual Studio files
+.vscode/
+.vs/
+*.sln.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pdb
+*.dll.config
+
+# NuGet packages
+*.nupkg
+*.pdb
+*.dll
+*.exe
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio code coverage result
+*.opendb
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TeamCity files
+*.teamcity.*
+*.tcignore
+
+# DotCover files
+*.do
